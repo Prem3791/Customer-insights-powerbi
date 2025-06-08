@@ -19,7 +19,8 @@ Power BI dashboard analyzing customer behavior and platform interaction for RO E
 - `Exam II (2024) Final.xlsx` – Source data
 - `Write Up For RO.pdf` – Summary of dashboard insights
 
-📎 [Google Drive View of Dashboard](https://drive.google.com/...)
+📁 [View Full Power BI & Excel Dashboard Files (Google Drive)](https://drive.google.com/drive/folders/1ecq349unMcID9ivUMTlBVjRk0PMk_0bO?usp=drive_link)
+
 
 ---
 
